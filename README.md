@@ -8,6 +8,7 @@ https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb
 Build your pipeline that will detect and draw lane lines on the test images
 
 ## Result
+![alt text](https://github.com/PommE15/SDC-LaneLines-P1/blob/master/result_p1.jpg)
 
 ## Reflections
 ### How could you imagine making your algorithm better / more robust?
